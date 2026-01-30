@@ -115,13 +115,3 @@ Notes -
 This project intentionally avoids UI polish and real LLM calls in favor of
 demonstrating correct orchestration, failure handling, and system design.
 
-
----
-
-## What to do with the existing README in `apps/`
-- Leave it as-is
-- Or add a single line at the top:
-
-```md
-> See the root README.md for overall architecture and setup.
-
